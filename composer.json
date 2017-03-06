@@ -1,0 +1,26 @@
+{
+    "name": "vehsamrak/gurps",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Petr Karmashev",
+            "email": "smonkl@bk.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vehsamrak\\Gurps\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.7.7"
+    }
+}
