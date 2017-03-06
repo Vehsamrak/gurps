@@ -1,8 +1,8 @@
 # Composer
-vendor/
+/vendor/
 
 # PhpStorm
-.idea/
+/.idea/
 
 # Code coverage
 /coverage.xml
